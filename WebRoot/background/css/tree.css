@@ -1,0 +1,147 @@
+
+body {
+	margin: 8px;
+	background-color: #E6EBEF;
+	overflow: hidden;
+	border: 0px;
+
+    color:#364B7E;
+	font-size: 12px;
+
+/*    enable only under IE       */ 
+    scrollbar-3dlight-color:#B1C3DB;
+    scrollbar-arrow-color:#3F4A77;
+    scrollbar-track-color:#FFFFFF;
+    scrollbar-darkshadow-color:#B1C3DB;
+    scrollbar-face-color:#E3EAF4;
+    scrollbar-highlight-color:#FFFFFF;
+    scrollbar-shadow-color:#FFFFFF
+}
+h3 {
+    margin: 4px auto;
+	font: 12px ºÚÌå blod;
+	font-weight: bold;
+}
+table {
+    font-size: 13px;
+}
+td {
+    white-space: nowrap;
+}
+
+.folder {
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+	font-size: 12px;
+	background-image: url(../images/xtree/collapse_icon.gif);
+	background-repeat: no-repeat;
+	background-position: left;
+	padding-left: 40px;
+	cursor: hand;
+}
+.collapsedFolder {
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+	font-size: 12px;
+	background-image: url(../images/xtree/plus_icon.gif);
+	background-repeat: no-repeat;
+	background-position: left;
+	padding-left: 40px;
+	cursor: hand;
+}
+.submenu {
+	padding-left: 18px;
+}
+.file {
+	background-image: url(../images/xtree/file.gif);
+	background-repeat: no-repeat;
+	background-position: left;
+	padding-left: 20px;
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+	font-size: 12px;
+}
+a {
+	color: #364B7E;
+	text-decoration: none;
+}
+a:hover {
+	color: #8E6F1C;
+	background-color: #eeeeee;
+}
+
+.ctrlbar {
+	border: 1px inset;
+}
+.explorer {
+	background-color: #FFFFFF;
+	border: 1px inset;
+}
+
+.ctbutton {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	background-color: #eeeeee;
+	border-width: 1px;
+	width: 9px;
+	height: 100px;
+	margin-bottom: 100px;
+}
+/*
+body{
+	margin: 8px;
+	background-color: #E6EBEF;
+	overflow: hidden;
+	border: 0px;
+
+    color:#364B7E;
+	font-size: 12px;
+
+/*  enable only under IE      
+    scrollbar-3dlight-color:#B1C3DB;
+    scrollbar-arrow-color:#3F4A77;
+    scrollbar-track-color:#FFFFFF;
+    scrollbar-darkshadow-color:#B1C3DB;
+    scrollbar-face-color:#E3EAF4;
+    scrollbar-highlight-color:#FFFFFF;
+    scrollbar-shadow-color:#FFFFFF
+}
+a {
+   display: block;
+   color: #364B7E;
+   text-decoration: none;
+}
+a:hover {
+   text-decoration: underline;
+}
+
+ul {
+    margin: 0px;
+	margin-bottom: 1px;
+	border: 1px solid #E6EBEF;
+}
+
+li {
+    margin: 0px;
+    padding: 0px 0px 0px 40px;
+    list-style: none;
+	border: 3px solid #E6EBEF;
+}
+li ul {
+    margin-left: -25px;
+
+
+}
+li ul li {
+    margin: 0px;
+	border: 3px solid #E6EBEF;
+}
+
+.collapsedFolder {
+    background: url("../images/xtree/collapse_icon.gif") no-repeat;
+}
+.plusFolder {
+    background: url("../images/xtree/plus_icon.gif") no-repeat;
+}
+.bootFile {
+    padding-left: 20px;
+	background: url("../images/xtree/file.png") no-repeat; 
+}
+ */ 

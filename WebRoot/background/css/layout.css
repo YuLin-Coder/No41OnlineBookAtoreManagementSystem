@@ -1,0 +1,243 @@
+
+/* toolbar  */
+
+#tool_bar {
+    clear: both;
+	margin: 0px;
+	padding: 2px;
+    width: 100%;
+	height: 20px;
+	white-space: nowrap;
+	text-align: right;
+	background: url("../images/toolbar_bg.gif") repeat-x;
+
+}
+
+#tool_bar input {
+	margin-left: -6px;
+	padding: 2px 3px 2px 2px;
+	color: #364B7E;
+    border: 1px solid #87A0BD;
+	background-color: transparent;
+	background-image: url("../images/button_bg.gif");
+}
+#tool_bar button {
+    margin-left: -6px;
+	padding: 3px 4px 2px 4px;
+	color: #364B7E;
+    border: 1px solid #87A0BD;
+	background-image: url("../images/button_bg.gif");
+}
+#tool_bar ul {
+    margin: 0px;
+	list-style: none;
+}
+
+#tool_bar ul li {
+	display: inline;
+	float: right;
+	padding: 4px 10px;
+
+	border: 1px solid #87A0BD;
+	background-image: url("../images/button_bg.gif");
+}
+
+#tool_bar li a {
+    list-style: none;
+	text-decoration: none;
+	color: #364B7E;
+}
+
+#tool_bar li a:hover {
+    text-decoration: none;
+}
+
+/*  opearation bar  */
+
+.operation_bar {
+    clear: both;
+    width: 98%;
+    margin: 5px 5px 20px 5px;
+	margin: 0px;
+	padding: 2px;
+	height: 20px;
+	white-space: nowrap;
+	text-align: right;
+
+}
+
+.operation_bar input {
+
+	padding: 2px 3px 2px 2px;
+	color: #364B7E;
+    border: 1px solid #87A0BD;
+	background-color: transparent;
+}
+.operation_bar button {
+    margin-left: -6px;
+	padding: 3px 4px 2px 4px;
+	color: #364B7E;
+    border: 1px solid #87A0BD;
+}
+.operation_bar ul {
+    margin: 0px;
+	list-style: none;
+}
+
+.operation_bar ul li {
+	display: inline;
+	float: right;
+	padding: 4px 10px;
+
+	border: 1px solid #87A0BD;
+}
+
+.operation_bar li a {
+    list-style: none;
+	text-decoration: none;
+	color: #364B7E;
+}
+
+.operation_bar li a:hover {
+    text-decoration: none;
+}
+
+/* add auto scrollbar for table */
+.scrollbar_table {
+	width: 100%;
+	padding: 0px;
+	overflow: auto;
+}
+
+/*   multi_page_bar   */
+
+#multi_page_bar {
+	clear: both;
+	width: 98%;
+	height: 25px;
+	margin-top: 15px;
+	margin-bottom: -8px;
+	padding: 4px 0px 4px;
+	white-space: nowarp;
+
+}
+#multi_page_bar span.floatLeft {
+	float: left;
+	margin: 
+}
+
+#multi_page_bar span.floatRight {
+	float: right;
+	margin: 0px;
+	margin-right: 16px;
+	padding-top: 2px;
+}
+#multi_page_bar span.floatRight input {
+    margin: 0px 2px;
+}
+
+/* table of adding content */
+
+.table_add_content_small {
+    float: left;
+	clear: both;
+    width: 50%;
+    margin: 20px 5px 15px 5px;
+    padding: 2px;
+    table-collapse: collapse;
+	background-color: transparent;	
+	border-width: 0px; 
+}
+
+.table_add_content caption {
+    float: left;
+	margin: 0px;
+	padding: 6px auto;
+	color: #364B7E;
+	font-size: 14px;
+	background-color: transparent;
+	border-width: 0px;
+}
+.table_add_content {
+    position: relative;
+    width: 98%;
+    margin: 5px 5px 20px 5px;
+	padding: 2px;
+    table-collapse: collapse;
+	background-color: transparent;	
+	border: 0px solid #99AACB;
+}
+
+.table_add_content caption {
+    background: transparent;
+	border-width: 0px;	
+}
+
+.table_add_content tr {
+
+}
+
+.table_add_content td,.table_add_content_small td {
+    margin: 0px;
+    word-break: keep-all;
+    white-space: nowrap;
+	font-size: 12px;
+	border-width: 0px;
+}
+
+
+
+/*  ±νµ¥  */
+
+.input_button_normal {
+    background-color: transparent;
+
+	border-top: 1px solid ;
+	border-left: 1px solid ;
+	border-right: 2px solid #364B7E;
+	border-bottom: 2px solid #364B7E;
+}
+
+.input_text_normal {
+    height: 20px;
+	padding: 4px 2px 0px 2px;
+    color: #364B7E;
+	border:1px solid #6F7B89;
+	
+}
+.input_text_underline {  
+    height: 20px;
+	margin-right: 2px;
+	margin-left: 2px;
+	padding: 4px 2px 0px 2px;
+    color: #364B7E;
+	background: transparent;
+	border-bottom: solid #6F7B89;
+	border-width: 0px 0px 1px 0px;
+}
+.input_text_none {
+    height: 20px;
+    color: #364B7E;
+	border: 0px;
+}
+.input_text_none_right {
+    height: 20px;
+    color: #364B7E;
+	border: 0px;
+	text-align: right;
+}
+.input_text_none_center {
+    height: 20px;
+    color: #364B7E;
+	border: 0px;
+	text-align: center;
+}
+.myTitle {
+	font-family: "Ώ¬Με_GB2312";
+	font-weight: bold;
+	font-size: 20px;
+}
+.myAdd {
+	font-weight: bold;
+	font-size: 12px;
+}

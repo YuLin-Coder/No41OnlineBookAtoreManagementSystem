@@ -1,0 +1,91 @@
+
+
+body {
+	margin: 0px;
+	padding: 0px;
+	font: 12px ËÎÌו,Arial, Helvetica, sans-serif normal;
+	text-align: center;
+}
+
+
+/*   layout box   */
+#container {
+	width: 778px;
+	text-align: right;
+}
+
+#top {
+	height: 38px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+	background: url(../images/top.gif) no-repeat;
+}
+
+#content {
+	height: 385px;
+	background: url(../images/content_bg.gif) no-repeat;
+}
+
+#software {
+	position: relative;
+	top: 0px;
+	height: 104px;
+	background: url(../images/software.gif) no-repeat top right;
+
+	z-index: 100;
+}
+
+#table_login {
+	position: relative;
+	top: 40px;
+	right: 80px;
+	width: 225px;
+	height: 131px;
+	background: url(../images/login_bg.gif) no-repeat;
+}
+
+#table_login td {
+	padding: 4px;
+	font-size: 12px;
+	text-align: center;
+}
+
+#textarea {
+	position: absolute;
+	width: 100%;
+	top: 398px;
+   white-space: nowrap;
+	text-align: right;
+	background-color: transparent;
+}
+#textarea img {
+
+}
+#textarea p {
+	float: right;
+	padding: 8px 8px;
+	color: #364B7E;
+}
+
+#footer {
+	height: 11px;
+   
+	background: url(../images/footer_bg.gif) no-repeat bottom;
+
+}
+
+.input_text_login {
+	border: 1px solid #6F7B89;
+	color: #364B7E;
+}
+.input_button_login {
+	width: 60px;
+	height: 20px;
+	padding: 2px;
+	text-align: center;
+	color: #FFF;
+	background-color: transparent;
+	background-image: url(../images/button_login.gif);
+	border: 0px;
+}

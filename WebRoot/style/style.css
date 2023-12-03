@@ -1,0 +1,185 @@
+/* CSS Document */
+body ul{padding:0;
+margin:0;
+font-size:12px;
+}
+a{ text-decoration:none;}
+a img{border:0;}
+#cart_form{margin:0;}
+.content{width:990px; margin:5px auto 0 auto ; font-size:12px;}
+.title1{ width:990px; height:24px; background:url(../images/top.gif) no-repeat;}
+.title2{ width:990px; height:24px; background:url(../images/top.gif) no-repeat 0 -42px;}
+.title3{ width:990px; height:24px; background:url(../images/top.gif) no-repeat 0 -85px;}
+.title4{ width:990px; height:24px; background:url(../images/top.gif) no-repeat 0 -129px;}
+#myCartTitle{ width:980px;margin:0;padding:5px; color: #666666;}
+#myCartTitle dt{ width:500px;
+ line-height:24px;
+ float:left;
+ font-size:14px;
+ font-weight:bold;
+ background: url(../images/tis.png) no-repeat left 4px;
+ padding:0 0 0 20px;
+ margin:0;
+ }
+#myCartTitle dd{
+width:400px;
+text-align:right;
+float:right;
+font-size:12px;
+ margin:0;}
+#myCartTitle dd a{line-height:24px; text-decoration:underline; color:#F60;}
+
+#myCartHd{ 
+margin:0;
+padding:0;
+width:990px;
+list-style:none;
+}
+#myCartHd li{
+float:left;
+width:120x;
+line-height:25px;
+}
+.clear{ clear:both; width:1px; height:1px;}
+.shpic{float:left; width:80px; padding:3px 10px;}
+.shpic img {width:80px;}
+.shname{line-height:25px;  display:block; width:300px; float:left;}
+.shname a{ font-weight:bold; text-decoration:none;}
+.left{
+float:left;
+width:790px;
+padding:5px;}
+.right{
+float:right;
+text-align:right; 
+padding:3px;
+}
+.zongj{
+width:970px;
+margin:0;
+padding:10px 10px;
+background: #F3FAF9;
+font-size:14px;
+}
+#myCartTable table{
+border:1px solid #cccccc;
+margin:0px;
+border-top:3px solid #999;
+}
+#myCartTable table td{
+border-top:1px solid #cccccc;
+}
+#myCartTable table th{
+border:0;
+height:30px;
+line-height:30px;
+font-weight:normal;
+}
+.fccc{color:#666;line-height:24px;}
+.fred{
+color:#FF0000;
+font-weight:bold;
+font-size:16px;
+}
+/*tab*/
+#interested{width:990px;overflow:hidden;position:relative; margin:10px 0 0 0; overflow:hidden;_zoom:1}
+#interested h3{position:absolute;z-index:100;height:20px;line-height:20px;color:#404040;font-size:12px;}
+#interested .clear{position:absolute;right:0;}
+#interested .con{overflow:hidden;}
+#interested .con .tabs{height:26px;margin-bottom:20px;padding-left:150px;border-bottom:1px solid #a8def7;}
+#interested .con .tabs li{display:inline;float:left;min-width:1px;height:26px;margin-right:3px;line-height:26px;_width:1px;_white-space:nowrap;}
+#interested .con .tabs li a{display:block;background:url(../images/T1wqpmXhlcXXXXXXXX-114-285.png) no-repeat 0 -51px;}
+#interested .con .tabs li a span{display:block;height:26px;padding:0 10px;color:#111;background:url(../images/T1wqpmXhlcXXXXXXXX-114-285.png) no-repeat 100% -77px;cursor:pointer;}
+#interested .con .tabs li a:hover{text-decoration:none;}
+#interested .con .tabs li.current{position:relative;z-index:1;top:1px;}
+#interested .con .tabs li.current a{font-weight:bold;background-position:0 -109px;}
+#interested .con .tabs li.current a span{background-position:100% -135px;}
+#main3{width:990px; margin:0; padding:0;}
+#interested .con ul.pannel{width:960px;overflow:hidden;padding-bottom:20px;margin:0;}
+#interested .con ul.pannel li{float:left;width:190px;overflow:hidden;margin:0 14px; list-style:none;}
+#main3 ul.pannel li.pic{text-align:center;border:1px solid #e6e6e6; padding:5px;}
+#main3 ul.pannel li.pic img{vertical-align:middle;}
+#main3 .text{text-align:left; color:#3C3E37; line-height:25px; display:block;}
+
+.pingl{ width:988px;border:#ced1d6 1px solid; background: url(../images/tablebg.png) repeat-x; padding:20px 0 10px 0;margin:0}
+.titname{width:60px; font-size:14px; color:#D3490E;line-height:18px; background:url(../images/namebg.gif) no-repeat right;}
+h3.sjname{font-size:12px; color:#212B9E;}
+.pltext{ width:978px;border:1px solid #ced1d6; border-bottom:none;margin:10px 0 0 0; height:24px; background: url(../images/pltextbg.gif) repeat-x;font-weight: bold; line-height:24px;padding:0 0 0 10px;}
+.pinglt{width:988px;border:#ced1d6 1px solid; background: url(../images/tablebg.png) repeat-x; padding:0px 0 10px 0;margin:0; color:#333}
+.pinglt table td{ padding:5px;}
+.xinx{
+margin:10px 0;
+}
+.textarea{width:527px; margin:0;border:1px solid #a5a5a5;font-size:12px;}
+.niming{margin:2px 0; width:400px;}
+.thbg{background: url(../images/tablebg.png) repeat-x;}
+.qurtit{font-size:14px;padding:10px 10px 10px 0; margin:15px 0 5px 0; color:#333333}
+.qurtext{line-height:25px;}
+.fonyell{color:#FF0000;}
+.inputtext{ width:150px; border:1px solid #CCCCCC; height:22px;}
+.qurbot{padding:0 0 10px 100px;}
+.qurbtn{width:146px;
+ height:39px;
+ background:url(../images/qurbtn.png) no-repeat;
+ border:0px;
+}
+
+
+.bor1 {
+	margin: 0px auto; width: 100%; background: #fff; padding-top: 8px
+}
+.kd {
+	padding: 0px; margin: 0px; width: 527px; padding: 14px 0 0 0;
+}
+.kd1 {
+	border: white 1px solid;  padding:14px 0 8px 0; padding-left: 14px; padding-right: 0px; padding-top: 14px
+}
+.star0521 {
+	text-align: left; height: 30px
+}
+.star0521 SPAN {
+	float: left; padding-top: 7px
+}
+.star0521 .font14 {
+	font-size: 14px
+}
+.star0521 DIV {
+	width: 160px; float: left
+}
+.star {
+	width: 150px; height: 25px
+}
+.star LI {
+	width: 150px; background: url(../images/star.png) no-repeat; height: 25px
+}
+.star LI.one {
+	background: url(../images/star.png) no-repeat 0px -25px
+
+
+}
+.star LI.two {
+	background: url(../images/star.png) no-repeat 0px -50px
+
+
+}
+.star LI.three {
+	background: url(../images/star.png) no-repeat 0px -75px
+
+
+}
+.star LI.four {
+	background: url(../images/star.png) no-repeat 0px -100px
+
+
+}
+.star LI.five {
+	background: url(../images/star.png) no-repeat 0px -125px
+
+
+}
+
+ 
+
+
+
+

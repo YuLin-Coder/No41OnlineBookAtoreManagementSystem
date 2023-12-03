@@ -1,0 +1,40 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font: 12px ËÎÌå,Arial, Helvetica, sans-serif normal;
+    text-align: center;	
+    color: #364B7E;	
+    background-color: #E6EBEF;
+    scrollbar-3dlight-color:#B1C3DB;
+    scrollbar-arrow-color:#3F4A77;
+    scrollbar-track-color:#FFFFFF;
+    scrollbar-darkshadow-color:#B1C3DB;
+    scrollbar-face-color:#E3EAF4;
+    scrollbar-highlight-color:#FFFFFF;
+    scrollbar-shadow-color:#FFFFFF
+}
+table td {
+    padding: 2px 4px 2px 2px;
+    text-align: left;
+	text-indent:4px;
+	word-break: keep-all;
+	break-wrap: break-word; 
+    white-space: nowrap;	
+	font-size: 12px;    
+}
+.myButton{
+    margin-left: -6px;
+	padding: 3px 4px 2px 4px;
+	color: #364B7E;
+    border: 1px solid #87A0BD;
+	background-image: url("../images/button_bg.gif");
+}
+.myTitle {
+	font-family: "¿¬Ìå_GB2312";
+	font-weight: bold;
+	font-size: 20px;
+}
+.myNeirong {
+	font-weight: bold;
+	font-size: 16px;
+}

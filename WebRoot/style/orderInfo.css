@@ -1,0 +1,383 @@
+
+FORM {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+LABEL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+#top {
+	MARGIN: 0px auto; WIDTH: 752px; HEIGHT: 95px
+}
+#top .logo {
+	MARGIN-TOP: 19px; WIDTH: 159px; FLOAT: left; HEIGHT: 50px
+}
+.warebuy1 {
+	LINE-HEIGHT: 29px; MARGIN-TOP: 12px; WIDTH: 438px; FLOAT: left; HEIGHT: 29px; MARGIN-LEFT: 30px; PADDING-TOP: 23px
+}
+.warebuy2 {
+	LINE-HEIGHT: 29px; MARGIN-TOP: 12px; WIDTH: 438px; FLOAT: left; HEIGHT: 29px; MARGIN-LEFT: 30px; PADDING-TOP: 23px
+}
+.warebuy3 {
+	LINE-HEIGHT: 29px; MARGIN-TOP: 12px; WIDTH: 438px; FLOAT: left; HEIGHT: 29px; MARGIN-LEFT: 30px; PADDING-TOP: 23px
+}
+.warebuy_fq {
+	LINE-HEIGHT: 29px; MARGIN-TOP: 12px; WIDTH: 438px; FLOAT: left; HEIGHT: 29px; MARGIN-LEFT: 30px; PADDING-TOP: 23px
+}
+.warebuyul LI {
+	TEXT-ALIGN: left; LIST-STYLE-TYPE: none; DISPLAY: block; FLOAT: left; HEIGHT: 29px; COLOR: #666; FONT-WEIGHT: bold; LIST-STYLE-IMAGE: none
+}
+.warebuyul LI IMG {
+	POSITION: absolute
+}
+.warebuyul LI.a {
+	WIDTH: 121px
+}
+.warebuyul LI.b {
+	WIDTH: 161px
+}
+.warebuyul LI.c {
+	WIDTH: 156px
+}
+.white {
+	COLOR: #fff
+}
+.f14 {
+	FONT-SIZE: 14px
+}
+.warebuy3 {
+	BACKGROUND: url(../gouweb/images/warebuy3.jpg)}
+.warebuy2 {
+	BACKGROUND: url(../gouweb/images/warebuy2.jpg) no-repeat 0px 50%
+
+}
+.warebuy1 {
+	BACKGROUND: url(../gouweb/images/warebuy1.jpg)}
+#warebuybox {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; PADDING-BOTTOM: 10px; MARGIN: 0px auto; WIDTH: 750px; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid
+}
+.order {
+	BORDER-BOTTOM: #efefef 1px solid; TEXT-ALIGN: left; PADDING-BOTTOM: 5px; LINE-HEIGHT: 39px; PADDING-LEFT: 254px; BACKGROUND: url(../gouweb/images/box1.jpg) no-repeat left top; HEIGHT: 39px; COLOR: #666; PADDING-TOP: 10px
+}
+.shadow {
+	MARGIN: 0px auto; WIDTH: 738px; BACKGROUND: #efefef; HEIGHT: 6px
+}
+.o_show {
+	BORDER-BOTTOM: #ccc 2px dotted; TEXT-ALIGN: left; MARGIN: 10px 10px 0px
+}
+.o_write {
+	BORDER-BOTTOM: #ccc 2px dotted; TEXT-ALIGN: left; MARGIN: 5px 5px 0px
+}
+.o_show H1 {
+	LINE-HEIGHT: 150%; MARGIN-BOTTOM: 5px; FONT-SIZE: 14px
+}
+.o_write H1 {
+	LINE-HEIGHT: 150%; MARGIN-BOTTOM: 5px; FONT-SIZE: 14px
+}
+.o_show .partTitle {
+	LINE-HEIGHT: 150%; MARGIN-BOTTOM: 5px; FONT-SIZE: 14px
+}
+.o_write .partTitle {
+	LINE-HEIGHT: 150%; MARGIN-BOTTOM: 5px; FONT-SIZE: 14px
+}
+.o_show H1 A {
+	COLOR: #185d94; FONT-SIZE: 12px; FONT-WEIGHT: 100
+}
+.o_write H1 A {
+	COLOR: #185d94; FONT-SIZE: 12px; FONT-WEIGHT: 100
+}
+.o_show H1 A:hover {
+	COLOR: #ff6600
+}
+.o_write H1 A:hover {
+	COLOR: #ff6600
+}
+#ware_info .middle A:hover {
+	COLOR: #ff6600
+}
+.o_show .middle {
+	LINE-HEIGHT: 20px; PADDING-LEFT: 17px; COLOR: #333
+}
+.o_write .middle {
+	LINE-HEIGHT: 20px; PADDING-LEFT: 17px; COLOR: #333
+}
+.o_show .middle TD {
+	LINE-HEIGHT: 20px; COLOR: #404040
+}
+.o_write .footsty {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 35px; PADDING-RIGHT: 0px; PADDING-TOP: 5px
+}
+.o_write {
+	BORDER-BOTTOM: #b7d2df 1px solid; PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BACKGROUND: #eff5f8; BORDER-TOP: #b7d2df 2px solid; PADDING-TOP: 10px
+}
+.o_write TD {
+	PADDING-BOTTOM: 2px; LINE-HEIGHT: 20px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; PADDING-TOP: 2px
+}
+INPUT.btn0 {
+	BORDER-BOTTOM: #bb4a00 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #ffc7a2 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; BACKGROUND: url(../gouweb/images/btnbg.jpg) #f90; HEIGHT: 23px; COLOR: #fff; FONT-SIZE: 14px; BORDER-TOP: #ffc7a2 1px solid; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: #bb4a00 1px solid; PADDING-TOP: 0px
+}
+INPUT.txt {
+	BORDER-BOTTOM: #b7d2df 1px solid; BORDER-LEFT: #7cadc5 1px solid; LINE-HEIGHT: 18px; BACKGROUND: #fff; HEIGHT: 18px; COLOR: #333; FONT-SIZE: 12px; BORDER-TOP: #7cadc5 1px solid; BORDER-RIGHT: #b7d2df 1px solid
+}
+.submit {
+	TEXT-ALIGN: right; PADDING-BOTTOM: 10px
+}
+#ware_info {
+	PADDING-BOTTOM: 10px; MARGIN: 10px; BACKGROUND: #fff4d7
+}
+#ware_info H1 {
+	TEXT-ALIGN: left; HEIGHT: 17px; BORDER-TOP: #ebcca0 2px solid
+}
+#ware_info .middle {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 0px; LINE-HEIGHT: 150%; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; FONT-SIZE: 14px; PADDING-TOP: 0px
+}
+#ware_info .middle A {
+	COLOR: #185d94; FONT-SIZE: 12px
+}
+#ware_info .info1 {
+	BORDER-BOTTOM: #ebcba0 1px dotted
+}
+#ware_info .info2 {
+	
+}
+#ware_info .info2 A {
+	LINE-HEIGHT: 25px; PADDING-LEFT: 10px; DISPLAY: block; BACKGROUND: url(../gouweb/images/point.jpg) no-repeat left 50%; FLOAT: left; COLOR: #c68600; FONT-WEIGHT: bold
+}
+#ware_info .ticket {
+	BORDER-BOTTOM: #ebcba0 1px solid; BORDER-LEFT: #ebcba0 1px solid; PADDING-BOTTOM: 5px; LINE-HEIGHT: 22px; MARGIN-TOP: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BACKGROUND: #fff; COLOR: #333; FONT-SIZE: 12px; BORDER-TOP: #ebcba0 1px solid; BORDER-RIGHT: #ebcba0 1px solid; PADDING-TOP: 5px
+}
+.tsinfo {
+	BORDER-BOTTOM: #ffcc00 1px dotted; TEXT-ALIGN: left; BORDER-LEFT: #ffcc00 1px dotted; PADDING-BOTTOM: 6px; PADDING-LEFT: 6px; PADDING-RIGHT: 6px; BACKGROUND: #fff7dd; COLOR: #da880e; BORDER-TOP: #ffcc00 1px dotted; BORDER-RIGHT: #ffcc00 1px dotted; PADDING-TOP: 6px
+}
+#ware_info .ticket H2 {
+	BACKGROUND: #fff; FONT-SIZE: 12px
+}
+#ware_info .ticket H2.m10 {
+	MARGIN-TOP: 10px
+}
+.fw100 {
+	FONT-WEIGHT: 100
+}
+.gray {
+	COLOR: #999
+}
+TD.gray A {
+	COLOR: #999
+}
+TD.gray A:visited {
+	COLOR: #666
+}
+#ware_info .t_box {
+	BORDER-BOTTOM: #ccc 1px dotted; BORDER-LEFT: #ccc 1px dotted; MARGIN: 3px; OVERFLOW: auto; BORDER-TOP: #ccc 1px dotted; BORDER-RIGHT: #ccc 1px dotted
+}
+.red {
+	COLOR: #f60
+}
+.red2 {
+	COLOR: #c00
+}
+DIV.tsbox {
+	BORDER-BOTTOM: #b7d2df 1px dotted; BORDER-LEFT: #b7d2df 1px dotted; BACKGROUND: #fff; BORDER-TOP: #b7d2df 1px dotted; BORDER-RIGHT: #b7d2df 1px dotted
+}
+TABLE.tsbox {
+	BORDER-BOTTOM: #b7d2df 1px dotted; BORDER-LEFT: #b7d2df 1px dotted; BACKGROUND: #fff; BORDER-TOP: #b7d2df 1px dotted; BORDER-RIGHT: #b7d2df 1px dotted
+}
+DIV.tsbox A {
+	COLOR: #f60
+}
+TABLE.tsbox A {
+	COLOR: #f60
+}
+TABLE.tsbox TD {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; PADDING-TOP: 2px
+}
+DIV.tsbox DIV {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; PADDING-TOP: 3px
+}
+.f12 {
+	FONT-SIZE: 12px
+}
+.cydz {
+	BORDER-BOTTOM: #b7d2df 1px dotted; BORDER-LEFT: #b7d2df 1px dotted; PADDING-BOTTOM: 5px; PADDING-LEFT: 10px; WIDTH: 80%; PADDING-RIGHT: 0px; MARGIN-BOTTOM: 7px; BACKGROUND: #f8fbfc; COLOR: #87b4c9; OVERFLOW: hidden; BORDER-TOP: #b7d2df 1px dotted; BORDER-RIGHT: #b7d2df 1px dotted; PADDING-TOP: 5px
+}
+.cydz LI {
+	BORDER-BOTTOM: #f8fbfc 1px dotted; BORDER-LEFT: #f8fbfc 1px dotted; PADDING-LEFT: 2px; WIDTH: 99%; DISPLAY: block; COLOR: #87b4c9; OVERFLOW: hidden; BORDER-TOP: #f8fbfc 1px dotted; MARGIN-RIGHT: 7px; BORDER-RIGHT: #f8fbfc 1px dotted
+}
+.cydz LI.xz {
+	BORDER-BOTTOM: #f9ba53 1px dotted; BORDER-LEFT: #f9ba53 1px dotted; BACKGROUND: #fffaee; COLOR: #f8aa27; BORDER-TOP: #f9ba53 1px dotted; BORDER-RIGHT: #f9ba53 1px dotted
+}
+.cydz .remark {
+	COLOR: gray
+}
+.cydz TD {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.txta {
+	BORDER-BOTTOM: #b7d2df 1px solid; BORDER-LEFT: #7cadc5 1px solid; PADDING-BOTTOM: 0px; MARGIN: 0px 5px 0px 0px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; BACKGROUND: #fff; FLOAT: left; BORDER-TOP: #7cadc5 1px solid; BORDER-RIGHT: #b7d2df 1px solid; PADDING-TOP: 0px
+}
+.txtb {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+LI.li1 {
+	PADDING-LEFT: 10px; WIDTH: 28%; BACKGROUND: url(../gouweb/images/complete.jpg) no-repeat 95px 50%
+
+}
+LI.li3 {
+	PADDING-LEFT: 30px; WIDTH: 28%
+}
+LI.li2 {
+	
+}
+LI.li4 {
+	WIDTH: 160px; BACKGROUND: url(../gouweb/images/complete.jpg) no-repeat 130px 50%
+
+}
+LI.li5 {
+	WIDTH: 140px
+}
+.part_a {
+	BACKGROUND-IMAGE: url(../gouweb/images/payment_02.gif); TEXT-ALIGN: left; WIDTH: 388px; BACKGROUND-REPEAT: no-repeat; CLEAR: both; PADDING-TOP: 23px
+}
+.part_b {
+	BACKGROUND-IMAGE: url(../gouweb/images/payment_02.gif); TEXT-ALIGN: left; WIDTH: 388px; BACKGROUND-REPEAT: no-repeat; CLEAR: both; PADDING-TOP: 23px
+}
+.part_a {
+	BACKGROUND-POSITION: 270px 0px
+}
+.part_b {
+	BACKGROUND-POSITION: 83px 0px
+}
+.part_a .p_a {
+	BACKGROUND: url(../gouweb/images/payment_01.gif) #e4e4e4 no-repeat 100% 0px; COLOR: #666; FONT-SIZE: 12px; FONT-WEIGHT: 700
+}
+.part_b .p_b {
+	BACKGROUND: url(../gouweb/images/payment_01.gif) #e4e4e4 no-repeat 100% 0px; COLOR: #666; FONT-SIZE: 12px; FONT-WEIGHT: 700
+}
+.part_a .p_a {
+	PADDING-LEFT: 20px; WIDTH: 188px
+}
+.part_a .p_b {
+	PADDING-LEFT: 8px; WIDTH: 170px; BACKGROUND: url(../gouweb/images/payment_03.gif) #cc0001 no-repeat 100% 0px; COLOR: #fff; FONT-SIZE: 14px; FONT-WEIGHT: 700
+}
+.part_a LI {
+	LINE-HEIGHT: 29px; FLOAT: left; HEIGHT: 29px
+}
+.part_b LI {
+	LINE-HEIGHT: 29px; FLOAT: left; HEIGHT: 29px
+}
+.part_b .p_a {
+	PADDING-LEFT: 8px; WIDTH: 208px; BACKGROUND: url(../gouweb/images/payment_05.gif) #cc0001 no-repeat 100% 0px; COLOR: #fff; FONT-SIZE: 14px; FONT-WEIGHT: 700
+}
+.part_b .p_b {
+	PADDING-LEFT: 8px; WIDTH: 159px; BACKGROUND: url(../gouweb/images/payment_04.gif) #e4e4e4 no-repeat 100% 0px; COLOR: #666; FONT-SIZE: 12px; FONT-WEIGHT: 700
+}
+.waitInfo {
+	BORDER-BOTTOM: #c0c0c0 1px solid; BORDER-LEFT: #c0c0c0 1px solid; PADDING-BOTTOM: 3px; PADDING-LEFT: 20px; PADDING-RIGHT: 10px; BACKGROUND: url(../gouweb/images/loading.gif) #fff no-repeat 3px 3px; COLOR: #666; MARGIN-LEFT: 10px; FONT-SIZE: 12px; BORDER-TOP: #c0c0c0 1px solid; FONT-WEIGHT: 400; BORDER-RIGHT: #c0c0c0 1px solid; PADDING-TOP: 4px
+}
+.errorInfo {
+	BORDER-BOTTOM: #f34956 1px solid; TEXT-ALIGN: right; BORDER-LEFT: #f34956 1px solid; PADDING-BOTTOM: 5px; MARGIN: 5px auto 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BACKGROUND: #ffecec; COLOR: #c00; FONT-SIZE: 12px; BORDER-TOP: #f34956 1px solid; BORDER-RIGHT: #f34956 1px solid; PADDING-TOP: 5px
+}
+.alertInfo {
+	BORDER-BOTTOM: #f34956 1px solid; TEXT-ALIGN: right; BORDER-LEFT: #f34956 1px solid; PADDING-BOTTOM: 5px; MARGIN: 5px auto 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BACKGROUND: #ffecec; COLOR: #c00; FONT-SIZE: 12px; BORDER-TOP: #f34956 1px solid; BORDER-RIGHT: #f34956 1px solid; PADDING-TOP: 5px
+}
+.payTypeChangeAlert {
+	BORDER-BOTTOM: #f34956 1px solid; TEXT-ALIGN: right; BORDER-LEFT: #f34956 1px solid; PADDING-BOTTOM: 5px; MARGIN: 5px auto 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BACKGROUND: #ffecec; COLOR: #c00; FONT-SIZE: 12px; BORDER-TOP: #f34956 1px solid; BORDER-RIGHT: #f34956 1px solid; PADDING-TOP: 5px
+}
+.alertInfo {
+	BORDER-BOTTOM: #f34956 1px solid; BORDER-LEFT: #f34956 1px solid; PADDING-BOTTOM: 2px; MARGIN: 0px 0px 5px 3px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; BACKGROUND: #ffecec; COLOR: #c00; BORDER-TOP: #f34956 1px solid; BORDER-RIGHT: #f34956 1px solid; PADDING-TOP: 2px
+}
+.payTypeChangeAlert {
+	DISPLAY: inline; FLOAT: right
+}
+.grouptitle {
+	PADDING-BOTTOM: 3px; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.couponInfo {
+	TEXT-ALIGN: right
+}
+.couponInfo SPAN {
+	COLOR: red; FONT-WEIGHT: bold
+}
+.couponSelect {
+	BORDER-BOTTOM: #01b703 1px solid; BORDER-LEFT: #01b703 1px solid; PADDING-BOTTOM: 2px; MARGIN: 0px 50px 2px 3px; PADDING-LEFT: 2px; PADDING-RIGHT: 0px; BACKGROUND: #f1fde5; BORDER-TOP: #01b703 1px solid; BORDER-RIGHT: #01b703 1px solid; PADDING-TOP: 2px
+}
+.couponNoSelect {
+	BORDER-BOTTOM: #fff 1px solid; BORDER-LEFT: #fff 1px solid; PADDING-BOTTOM: 2px; MARGIN: 0px 50px 2px 3px; PADDING-LEFT: 2px; PADDING-RIGHT: 0px; BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #fff 1px solid; PADDING-TOP: 2px
+}
+.submitSuccess {
+	BORDER-BOTTOM: #01b703 1px solid; BORDER-LEFT: #01b703 1px solid; PADDING-BOTTOM: 4px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; BACKGROUND: #f1fde5; HEIGHT: 23px; COLOR: #01b703; FONT-SIZE: 12px; BORDER-TOP: #01b703 1px solid; BORDER-RIGHT: #01b703 1px solid; PADDING-TOP: 4px
+}
+#part_payType A {
+	COLOR: #005ea7
+}
+.t_box TH {
+	TEXT-ALIGN: center
+}
+.t_box TD {
+	TEXT-ALIGN: center
+}
+.Tip360 {
+	Z-INDEX: 20002; BORDER-BOTTOM: #959595 1px solid; POSITION: absolute; BORDER-LEFT: #959595 1px solid; WIDTH: 380px; DISPLAY: none; BACKGROUND: #fff; OVERFLOW: hidden; BORDER-TOP: #959595 1px solid; BORDER-RIGHT: #959595 1px solid
+}
+.Tip360 STRONG {
+	COLOR: #ff6600
+}
+.w260 {
+	WIDTH: 260px
+}
+.Tip_Title {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 26px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; BACKGROUND: #0067aa; HEIGHT: 26px; COLOR: #fff; PADDING-TOP: 0px
+}
+.Tip_Title EM {
+	MARGIN-TOP: 6px; FLOAT: right; CURSOR: pointer
+}
+.Tip_Content {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; ZOOM: 1; OVERFLOW: hidden; PADDING-TOP: 10px
+}
+.Tip_Img {
+	WIDTH: 110px; FLOAT: left; HEIGHT: 96px
+}
+.Tip_Img IMG {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 5px; WIDTH: 100px; PADDING-RIGHT: 5px; HEIGHT: 75px; PADDING-TOP: 10px
+}
+.Tip_Text {
+	TEXT-ALIGN: left; WIDTH: 240px; FLOAT: right
+}
+.Tip_Text1 {
+	PADDING-BOTTOM: 15px; LINE-HEIGHT: 40px; PADDING-LEFT: 40px; PADDING-RIGHT: 0px; BACKGROUND: url(http://www.360buy.com/images/right_03.jpg) no-repeat left center; HEIGHT: 40px; FONT-SIZE: 14px; FONT-WEIGHT: bold; PADDING-TOP: 15px
+}
+.Tip_Submit {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BACKGROUND: #f2f2f2; HEIGHT: 24px; BORDER-TOP: #ccc 1px solid; PADDING-TOP: 3px
+}
+.Tip_Submit A:link {
+	BORDER-BOTTOM: #0067aa 1px solid; BORDER-LEFT: #0067aa 1px solid; PADDING-BOTTOM: 1px; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; DISPLAY: block; FLOAT: right; HEIGHT: 20px; MARGIN-LEFT: 10px; BORDER-TOP: #0067aa 1px solid; CURSOR: pointer; BORDER-RIGHT: #0067aa 1px solid; TEXT-DECORATION: none; PADDING-TOP: 1px
+}
+.Tip_Submit A:visited {
+	BORDER-BOTTOM: #0067aa 1px solid; BORDER-LEFT: #0067aa 1px solid; PADDING-BOTTOM: 1px; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; DISPLAY: block; FLOAT: right; HEIGHT: 20px; MARGIN-LEFT: 10px; BORDER-TOP: #0067aa 1px solid; CURSOR: pointer; BORDER-RIGHT: #0067aa 1px solid; TEXT-DECORATION: none; PADDING-TOP: 1px
+}
+.Tip_Submit2 A:link {
+	BORDER-BOTTOM: #0067aa 1px solid; BORDER-LEFT: #0067aa 1px solid; PADDING-BOTTOM: 1px; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; DISPLAY: block; FLOAT: right; HEIGHT: 20px; MARGIN-LEFT: 10px; BORDER-TOP: #0067aa 1px solid; CURSOR: pointer; BORDER-RIGHT: #0067aa 1px solid; TEXT-DECORATION: none; PADDING-TOP: 1px
+}
+.Tip_Submit2 A:visited {
+	BORDER-BOTTOM: #0067aa 1px solid; BORDER-LEFT: #0067aa 1px solid; PADDING-BOTTOM: 1px; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; DISPLAY: block; FLOAT: right; HEIGHT: 20px; MARGIN-LEFT: 10px; BORDER-TOP: #0067aa 1px solid; CURSOR: pointer; BORDER-RIGHT: #0067aa 1px solid; TEXT-DECORATION: none; PADDING-TOP: 1px
+}
+.Tip_Submit SPAN {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; DISPLAY: block; BACKGROUND: #0067aa; FLOAT: left; HEIGHT: 20px; COLOR: #fff; PADDING-TOP: 0px
+}
+.Tip_Submit2 SPAN {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; DISPLAY: block; BACKGROUND: #0067aa; FLOAT: left; HEIGHT: 20px; COLOR: #fff; PADDING-TOP: 0px
+}
+.suitPromTitle {
+	BACKGROUND: #fffddd
+}
+.suitPromTitle TD {
+	BORDER-TOP: medium none
+}
+.suitPromItem {
+	BACKGROUND: #fffddd
+}
+.suitPromItem TD {
+	BORDER-BOTTOM: medium none; BORDER-TOP: medium none
+}
+.cartSpliter TD {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; HEIGHT: 0px; BORDER-TOP: medium none; PADDING-TOP: 0px
+}

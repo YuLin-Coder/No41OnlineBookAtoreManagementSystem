@@ -1,0 +1,67 @@
+/* CSS Document */
+
+a {color: #364B7E; text-decoration: none;}
+a:hover {text-decoration: underline;}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font: 12px ËÎÌו,Arial, Helvetica, sans-serif normal;
+    color: #364B7E;	
+    background-color: #E6EBEF;
+    scrollbar-3dlight-color:#B1C3DB;
+    scrollbar-arrow-color:#3F4A77;
+    scrollbar-track-color:#FFFFFF;
+    scrollbar-darkshadow-color:#B1C3DB;
+    scrollbar-face-color:#E3EAF4;
+    scrollbar-highlight-color:#FFFFFF;
+    scrollbar-shadow-color:#FFFFFF
+}
+
+table {
+    margin: 5px 5px 5px 5px;
+    table-collapse: collapse;
+	background-color: #FFF;	
+	border: solid #C5C6CB;
+	border-width: 1px 0px 0px 1px;
+}
+
+table caption {
+    margin: 0px;
+	padding: 6px auto;
+	font-size: 18px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-align: center;
+	border-width: 1px 1px 0px 1px;
+	border-style: solid;
+	border-color: #99AACB;
+	background-color: #BBC6DD;
+}
+
+table th {
+    margin: 0px;
+	padding: 4px 0px;
+    font-weight: bold;
+	font-size: 14px;
+	text-align: center;
+	word-break: keep-all;
+	white-space: nowrap;
+    background-color: #F1F1F1;
+	border-width: 0px 1px 1px 0px;
+	border-style: solid;
+	border-color:  #C5C6CB;
+}
+
+table td {
+    padding: 2px 4px 2px 2px;
+    text-align:center;
+	text-indent:4px;
+	word-break: keep-all;
+	break-wrap: break-word; 
+    white-space: nowrap;	
+	font-size: 12px;
+	border-width: 0px 1px 1px 0px;
+	border-style: solid;
+	border-color:  #C5C6CB;
+}

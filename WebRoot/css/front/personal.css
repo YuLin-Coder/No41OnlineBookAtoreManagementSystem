@@ -1,0 +1,112 @@
+/* CSS Document */
+
+.personal_left{width:200px; margin:0; padding:0; float:left;}
+.personal_left_1{width:200px; height:20px; margin:0; padding:0; background-image:url(../../images/front/i_109.jpg); float:left;}
+.personal_left_2{width:175px; margin:0; padding:0 11px 0 12px; border-left:1px solid #E5E5E5; border-right:1px solid #E5E5E5; float:left;}
+.personal_left_2_p{width:130px; height:130px; margin:0 0 0 8px; padding:9px; background-color:#F5F5F5; border:1px solid #E2E2E2; float:left;}
+.personal_left_2_p_1{width:130px; height:130px; margin:0; padding:0; float:left; overflow:hidden;}
+.personal_left_2_t{width:150px; margin:5px 0 0 8px; padding:0; line-height:200%; text-align:center; float:left;}
+.personal_left_2_t_1{width:175px; margin:0; padding:0; line-height:150%; float:left;}
+.personal_left_2_l{width:175px; height:1px; margin:10px 0 10px 0; padding:0; border-bottom:1px dashed #CCCCCC; float:left; overflow:hidden;}
+.personal_left_2_b{width:150px; height:20px; margin:5px 0 3px 8px; padding:5px 0 0 0; text-align:center; background-image:url(../../images/front/i_112.jpg); float:left;}
+.personal_left_3{width:200px; height:6px; margin:0; padding:0; background-image:url(../../images/front/i_110.jpg); float:left; overflow:hidden;}
+.personal_right{width:740px; margin:0; padding:0; float:right;}
+.personal_right_1{width:637px; height:20px; margin:0; padding:6px 0 0 103px; background-image:url(../../images/front/i_113.jpg); float:left;}
+.personal_right_2{width:740px; margin:0; padding:0; float:left;}
+.personal_right_2_1{width:740px; margin:10px 0 0 0; padding:0; float:left;}
+.personal_right_2_1_1{width:627px; margin:0; padding:0 0 0 13px; float:left;}
+.personal_right_2_1_1_1{width:75px; height:18px; margin:0 5px 0 0; padding:9px 0 0 0; text-align:center; background-image:url(../../images/front/i_115.jpg); float:left;}
+.personal_right_2_1_1_2{width:75px; height:18px; margin:0 5px 0 0; padding:9px 0 0 0; text-align:center; background-image:url(../../images/front/i_116.jpg); float:left;}
+.personal_right_2_1_1_l{width:740px; height:1px; margin:0; padding:0; float:left; overflow:hidden;}
+.personal_right_2_1_2{width:660px; margin:0; padding:15px 39px 10px 39px; border-left:1px solid #E5E5E5; border-right:1px solid #E5E5E5; float:left;}
+.personal_right_2_1_2_1{width:660px; height:55px; margin:0; padding:40px 0 0 0; text-align:center; background-color:#FFF6D0; float:left;}
+.personal_right_2_1_2_l{width:660px; height:1px; margin:20px 0 20px 0; padding:0; border-bottom:1px dashed #CCCCCC; float:left; overflow:hidden;}
+.personal_right_2_1_2_t{width:660px; margin:0; padding:0; line-height:180%; color:#666666; float:left;}
+.personal_right_2_1_3{width:740px; height:6px; margin:0; padding:0; background-image:url(../../images/front/i_114.jpg); float:left; overflow:hidden;}
+
+
+/* 推荐商品 */
+.personal_T{width:660px; margin:0; padding:0; clear:both; list-style:none;}
+.personal_T li{width:142px; margin:10px 5px 10px 10px; padding:0; float:left;}
+.personal_T_p{width:140px; height:100px; margin:0; padding:0; border:1px solid #CCCCCC; text-align:center; float:left; overflow:hidden;}
+.personal_T_t{width:142px; margin:5px 0 0 0; padding:0; text-align:center; line-height:180%; float:left;}
+.personal_T_k{width:660px; height:1px; margin:0; padding:0; float:left; overflow:hidden;}
+.personal_more{width:620px; margin:10px 0 0 0; padding:0; text-align:right; line-height:200%; float:left;}
+.personal_more_1{width:948px; height:14px; margin:0; padding:0; border-left:1px solid #E5E5E5; border-right:1px solid #E5E5E5; border-top:1px solid #E5E5E5; background-image:url(../../images/front/icon_33.gif); background-repeat:repeat-x; float:left;}
+.personal_more_2{width:900px; margin:0; padding:10px 24px 5px 24px; border-left:1px solid #E5E5E5; border-right:1px solid #E5E5E5; float:left;}
+.personal_more_2_1{width:890px; height:17px; margin:0 0 20px 0; padding:8px 0 0 10px; background-color:#EDF8FF; float:left;}
+.personal_more_2_T{width:900px; margin:0; padding:0; clear:both; list-style:none;}
+.personal_more_2_T li{width:142px; margin:10px 10px 10px 15px; padding:0; float:left;}
+.personal_more_3{width:950px; height:6px; margin:0; padding:0; background-image:url(../../images/front/i_126.jpg); float:left; overflow:hidden;}
+.personal_more_k{width:900px; height:1px; margin:0; padding:0; float:left; overflow:hidden;}
+
+
+
+/* 论坛发贴 */
+.personal_L{width:600px; margin:0 0 0 20px; padding:0; list-style:none; clear:both;}
+.personal_L li{width:580px; margin:0; padding:0 0 0 20px; line-height:300%; border-bottom:1px dashed #CCCCCC; background-image:url(../../images/front/icon_32.gif); background-repeat:no-repeat; background-position:center left; float:left; white-space:nowrap; text-overflow:ellipsis; overflow:hidden;}
+.personal_L_more{width:900px; margin:0; padding:0; float:left;}
+.personal_L_more_1{width:440px; margin:0; padding:0; clear:both; list-style:none;}
+.personal_L_more_l{width:440px; margin:0; padding:0; float:left;}
+.personal_L_more_r{width:440px; margin:0; padding:0; float:right;}
+.personal_L_more_1 li{width:420px; margin:0; padding:0 0 0 20px; line-height:300%; border-bottom:1px dashed #CCCCCC; background-image:url(../../images/front/icon_32.gif); background-repeat:no-repeat; background-position:center left; float:left; white-space:nowrap; text-overflow:ellipsis; overflow:hidden;}
+.personal_L_more_2{width:440px; margin:0; padding:0; clear:both; list-style:none;}
+.personal_L_more_2 li{width:420px; margin:0; padding:0 0 0 20px; line-height:300%; border-bottom:1px dashed #CCCCCC; background-image:url(../../images/front/icon_32.gif); background-repeat:no-repeat; background-position:center left; float:right; white-space:nowrap; text-overflow:ellipsis; overflow:hidden;}
+
+
+/* 商品收藏秀 */
+.personal_S{width:660px; margin:0; padding:0; float:left;}
+.personal_S_l{width:300px; margin:0; padding:0; float:left;}
+.personal_S_l_1{width:280px; margin:0; padding:10px; background-color:#F6F6F6; float:left;}
+.personal_S_r{width:300px; margin:0; padding:0; float:right;}
+.personal_S_r_p{width:300px; margin:0; padding:0; clear:both; list-style:none;}
+.personal_S_r_p li{width:82px; margin:0 0 0 5px; padding:0 0 5px 0; float:left;}
+.personal_S_r_logo{width:200px; margin:0; padding:0; text-align:center; float:left;}
+.personal_S_line{width:1px; height:520px; margin:0 0 0 30px; padding:0; border-right:1px dashed #CCCCCC; float:left;}
+.personal_S_a{width:650px; height:17px; margin:0 0 20px 0; padding:8px 0 0 10px; background-color:#EDF8FF; float:left;}
+.personal_S_help{width:660px; margin:0; padding:0; line-height:180%; float:left;}
+
+
+/* 我的帐户 */
+.accounting{width:740px; height:14px; margin:0; padding:0; background-image:url(../../images/front/i_125.jpg); float:left;}
+.accounting_1{width:660px; margin:10px 0 0 0; padding:0; float:left;}
+.accounting_1 table{width:660px;  margin:0 0 0 0; border-collapse:collapse; float:left;}
+.accounting_1 table td,tr{padding:5px 0 0 8px; height:25px; text-align:left; border:1px solid #DBDBDB; vertical-align:middle; color:#333333 float:left;}
+.accounting_A{width:660px; height:440px; margin:0; padding:15px 39px 10px 39px; border-left:1px solid #E5E5E5; border-right:1px solid #E5E5E5; float:left;}
+.accounting_t{width:380px; margin:0; padding:0; line-height:200%; float:left;}
+.accounting_t_1{width:250px; margin:0 3px 0 0; padding:0; text-align:right; line-height:200%; float:right;}
+
+
+/* 好友管理 */
+.personal_f{width:600px; height:15px; margin:; padding:5px 0 0 40px; background-image:url(../../images/front/icon_52.gif); background-repeat:no-repeat; float:right;}
+.personal_f_1{width:640px; margin:10px 0 0 0; padding:0; list-style:none; clear:none; float:right;}
+.personal_f_1 li{width:82px; margin:5px 20px 5px 15px; padding:0; float:left;}
+.personal_f_1_T{width:82px; margin:0; padding:0; float:left;}
+.personal_f_1_p{width:80px; height:65px; margin:0; padding:0; border:1px solid #CCCCCC; float:left; overflow:hidden;}
+.personal_f_1_t{width:82px; margin:0; padding:0; line-height:200%; text-align:center; float:left; white-space:nowrap; text-overflow:ellipsis; overflow:hidden;}
+.personal_f_1_t_1{width:82px; height:17px; margin:0; padding:0; text-align:center; float:left;}
+
+
+/* 消息管理 */
+.personal_I{width:615px; height:12px; margin:; padding:0 0 0 25px; background-image:url(../../images/front/icon_54.gif); background-repeat:no-repeat; float:right;}
+.personal_I_1{width:660px; height:2px; margin:10px 0 0 0; padding:0; background-color:#666666; float:left; overflow:hidden;}
+.personal_I_2{width:615px; height:24px; margin:0 0 5px 0; padding:6px 0 0 45px; background-color:#F0F0F0; float:left;}
+.personal_I_2_1{width:130px; margin:0 0 0 5px; padding:0; line-height:150%; text-align:center; float:right;}
+.personal_I_2_2{width:240px; margin:0 0 0 10px; padding:0; line-height:150%; text-align:center; float:right;}
+.personal_I_2_3{width:135px; margin:0 5px 0 10px; padding:0; line-height:150%; text-align:center; float:right;}
+.personal_I_2_4{width:50px; margin:0 5px 0 10px; padding:0; line-height:150%; text-align:center; float:right;}
+.personal_I_2_new{width:55px; margin:0; padding:0; line-height:150%; text-align:center; float:left;}
+.personal_I_2_t{width:660px; margin:10px 0 5px 0; padding:0; clear:both; list-style:none;}
+.personal_I_2_t li{width:660px; margin:0; padding:0; float:left;}
+.personal_I_2_l{width:660px; height:1px; margin:5px 0 10px 0; padding:0; border-bottom:1px dashed #CCCCCC; float:left; overflow:hidden;}
+
+.personal_I_t{width:402px; margin:0; padding:0; float:left;}
+.personal_I_t_1{width:362px; height:27px; margin:0; padding:18px 20px 0 20px; background-image:url(../../images/front/i_179.jpg);}
+.personal_I_t_2{width:332px; height:135px; margin:0; padding:21px 35px 0 35px; background-image:url(../../images/front/i_180.jpg);}
+.personal_I_t_2_a{width:366px; height:151px; margin:0; padding:5px 18px 0 18px; background-image:url(../../images/front/i_180.jpg); float:left;}
+.personal_I_t_2_1{width:332px; margin:0; padding:0; float:left;}
+.personal_I_t_2_1_a{width:230px; margin:0; padding:0; line-height:150%; float:right;}
+.personal_I_t_2_1_b{width:366px; margin:0; padding:0; line-height:150%; float:left;}
+.personal_I_t_3{width:402px; height:20px; margin:0; padding:0; background-image:url(../../images/front/i_181.jpg);}
+.personal_I_t_a{width:557px; margin:0; padding:0; float:left;}
+

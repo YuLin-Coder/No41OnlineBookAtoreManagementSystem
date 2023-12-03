@@ -1,0 +1,64 @@
+
+body {
+    margin: 8px 0px 0px 8px;
+	padding: 0px;
+
+	overflow: auto;
+	font: 12px ËÎÌו,Verdana normal;
+    color: #364B7E;
+
+	background-color: #E6EBEF;
+}
+.treeItem
+{
+	
+}
+.treeItem span
+{
+	font-size: 12px;
+	font-family: Verdana;
+	cursor:default;
+	margin-left: 3px;
+	height: 17px;
+	width: 1px;
+}
+.treeItem span a
+{
+	width: 100%;
+	height: 100%;
+	padding: 2px;
+}
+.treeItem-unselect
+{
+	background-color: #364B7E;
+	color: #E6EBEF;
+}
+.treeItem-selected
+{
+	border: 0px solid windowText;
+	background-color: #4F6CB3;
+	color: #364B7E;
+}
+.treeItem-unselect a
+{
+	text-decoration: none;
+	color: #364B7E;
+	background-color: #E6EBEF;
+}
+.treeItem-unselect a:hover
+{
+	color: #3366CC;
+	text-decoration: none;
+}
+.treeItem-selected a
+{
+	color: #FFFFFF;
+	text-decoration: none;
+	width: 100%;
+	height: 100%;
+}
+.treeItem-selected a:hover
+{
+	color: #364B7E;
+	text-decoration: none;
+}

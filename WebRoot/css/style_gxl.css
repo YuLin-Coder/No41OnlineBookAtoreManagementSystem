@@ -1,0 +1,74 @@
+/* CSS Document */
+/*{ word-wrap:break-word;}*/
+body, td, input, textarea, select, button{ color:#444444; font:12px/1.6em Verdana,Helvetica,Arial,sans-serif;}
+input, select, button{ vertical-align:middle;}
+body, ul, li, dl, dd, p, h1, h2, h3, h4, h5, h6, form, fieldset{ margin:0; padding:0;}
+ul li{ list-style-type:none;}
+a{ color:#000000; text-decoration:none;}
+a:hover{ text-decoration:underline;}
+a img{ border:medium none;}
+.clear{ clear:both;}
+
+
+/* header_gxl.html */
+.header_gxl{ margin-bottom:8px; overflow:hidden; margin-left:10px; margin-right:10px;}
+.header_gxl_left{ float:left; margin-top:15px; display:inline;}
+.header_gxl_right{ float:right; margin:15px 0px 5px 0px; display:inline;}
+
+.header_gxl_search{ width:520px; height:auto; margin-top:2px; overflow:hidden;}
+.header_gxl_search_1{ width:515px; height:39px; background:url(../images/ss_bj.jpg) no-repeat; padding-top:4px; padding-left:5px;}
+.gxl_text_keyword{ width:410px; height:30px; line-height:30px; border:1px solid #e1e1e1; padding-left:6px; color:#cccccc;}
+.gxl_b_search{ width:85px; height:33px; background:url(../images/b_bj_1_gxl.jpg) no-repeat; border:none; line-height:33px; font-size:14px; color:#333333; font-weight:bold; cursor:pointer;}
+.gxl_hotkeyword{ margin-top:8px; padding-left:5px; width:515px; white-space:nowrap; text-overflow:ellipsis; overflow:hidden;}
+
+.gxl_color{color:#666666; text-decoration:none;}
+a.gxl_color:hover{color:#FF6600; text-decoration:underline;}
+.gxl_top2_color1{color:#666666; text-decoration:none;}
+a.gxl_top2_color1:hover{color:#FF6600; text-decoration:underline;}
+
+/* index_gxl.html */
+.bread_nav_gxl{ margin:0 10px;}
+.bread_nav_gxl_left{ line-height:3em; text-align:left; float:left; display:inline;}
+.bread_nav_gxl_left a{ color:#006699; text-decoration:none; font-weight:bold;}
+.bread_nav_gxl_left a:hover{ text-decoration:underline;}
+
+.bread_nav_gxl_right{ float:right; width:380px; height:auto; display:inline;}
+
+.ad_text_gxl{ margin-left:10px; margin-right:10px; overflow:hidden;}
+.ad_text_gxl_1{ background:url(../images/portalbox_bg.gif) repeat-x; border:1px solid #CAD9EA; padding:5px;}
+.yibiao_pic_gxl{ border:1px solid #cccccc; width:168px; height:46px; float:left; display:inline;}
+
+.mainbox_gxl{ margin-left:10px; margin-right:10px; border:1px solid #9DB3C5; margin-top:10px; padding:1px; overflow:hidden;}
+.list_head_gxl{ background:url(../images/head_bj_gxl.gif) repeat-x top left; height:31px; padding-left:9px;}
+.list_head_gxl h3{ color:#ffffff; font-weight:bold; font-size:12px; line-height:31px; float:left;}
+.list_head_gxl h3 a{ color:#ffffff; text-decoration:none;}
+.list_head_gxl h3 a:hover{ color:#ffffff; text-decoration:underline;}
+.list_tb_gxl{ height:31px; padding-right:5px; list-style-type:none; float:right;}
+.list_tb_gxl li{ height:30px; float:left; text-align:center;}
+.gxl_normaltab{ color:#d9e1f7; cursor:pointer; width:60px; height:30px; margin-top:1px; line-height:30px; text-align:center;}
+.gxl_hovertab{ cursor:pointer; background:url(../images/bbs_tab_hover.gif) no-repeat; width:60px; height:30px; margin-top:1px; line-height:30px; font-weight:bold; text-align:center;}
+.gxl_con_dis{display:block;}
+.gxl_con_undis{display:none;}
+.gxl_h_con_dis{ display:block;}
+.gxl_h_con_undis{ display:none;}
+
+.head_action_gxl{ float:right; padding-right:21px; padding-top:12px;}
+
+.list_gxl table th, .list_gxl table td{ background-color:#f5fafe; border-bottom:1px solid #ffffff; border-top:1px solid #CAD9EA; color:#666666;}
+.gxl_new{ background:url(../images/forum_new.gif) no-repeat 13px 10px;}
+.gxl_new_left{ float:left; padding-left:55px; padding-top:6px; padding-bottom:8px;}
+.gxl_new_left h2,p{ font-size:12px; text-align:left;}
+.gxl_new_left em,p{ font-style:normal; font-weight:400;}
+.gxl_new_left em strong{ color:#FF0000;}
+.gxl_forumnums{ color:#999999; padding-right:10px; padding-top:5px; padding-bottom:5px; text-align:center; width:90px;}
+.gxl_forumnums em{ color:#006699; font-style:normal;}
+.gxl_forumlast{ text-align:left; width:225px;}
+.gxl_forumlast cite{ font-style:normal; text-align:left;}
+
+.gxl_show_all{ padding-right:21px; font-weight:bold; cursor:pointer; color:#010101;}
+
+/* ÎÄ×ÖÁ´½Ó */
+.red{ color:#ff0000; text-decoration:none;}
+a:hover .red{ text-decoration:underline;}
+
+.gxl_con_dis tbody{padding:0px;margin:0px;}
